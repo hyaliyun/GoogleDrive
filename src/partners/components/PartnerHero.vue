@@ -3,7 +3,7 @@ defineProps<{ title?: string }>()
 </script>
 
 <template>
-  <div id="viewer">
+  <section ><div id="viewer">
 	  <div class="PartnerHero">
     <h1 class="title">TOKEN SHOWCASE</h1>
     <p class="lead">List of tokens people are building with Solana</p>
@@ -695,6 +695,7 @@ defineProps<{ title?: string }>()
 		  </div>
 		</div>
     </div>
+</section>
 </template>
 
 <style scoped>
@@ -898,14 +899,11 @@ body {
   }
   
   a {
-	color: #3498db;
 	text-decoration: none;
 	transition: color 0.3s ease;
   }
   
-  a:hover {
-	color: #2980b9;
-  }
+
   
   .container {
 	max-width: 1200px;

@@ -118,7 +118,7 @@ onMounted(load)
 
 
 
-  <div id="viewer">
+  <section ><div id="viewer">
 		<div class="sectionContainer">
 		  <h1>TOKEN SHOWCASE</h1>
 		  <p>List of tokens people are building with Solana</p>
@@ -811,6 +811,7 @@ onMounted(load)
 		  </div>
 		</div>
     </div>
+</section>
   <google />
   <!-- <NewsLetter /> -->
 </template>
@@ -1308,14 +1309,11 @@ body {
   }
   
   a {
-	color: #3498db;
 	text-decoration: none;
 	transition: color 0.3s ease;
   }
   
-  a:hover {
-	color: #2980b9;
-  }
+
   
   .container {
 	max-width: 1200px;

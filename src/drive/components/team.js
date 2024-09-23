@@ -1,6 +1,6 @@
 export const core = [
   {
-    avatar: './components/Three/facebook.png',
+    avatar: '/components/Three/facebook.png',
     name: 'BTC',
     title: 'CA:ArXETDYEcKmPWTN7CbLtAtw3bruJbrtwb3FD1RnvXFuf',
     org: 'BTC',
@@ -13,7 +13,7 @@ export const core = [
     sponsor: 'https://btc.543x.com/',
   },
   {
-    avatar: './components/Three/adsmanager.png',
+    avatar: '/components/Three/adsmanager.png',
     name: 'solana',
     title: 'CA:ATvWFEriuCm5ES26sXncc8tYBiDnjGbahzG6fp3uYQBk',
     org: 'solana',
@@ -27,7 +27,7 @@ export const core = [
     sponsor: 'https://accounts.binance.com/en/register?ref=11131007',
   },
   {
-    avatar: './components/Three/metaquest.png',
+    avatar: '/components/Three/metaquest.png',
     name: 'USDC',
     title: 'CA:3zwVdm5GkUFfJDMJSaMGjQtaMA7sqVWpCynoXcJ6kaX7',
     org: 'USDC',
@@ -41,7 +41,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/AizCbr94n73ykw7iefDbXc61AjQiQEULnTJs6m5Hdc6y',
   },
   {
-    avatar: './components/Three/messengerdesktop.png',
+    avatar: '/components/Three/messengerdesktop.png',
     name: 'BUSD',
     title: 'CA:J8ctjxNqi8vsKS5awupxoe3oK2qzcD3haJdrU8NnwP3x',
     org: 'BUSD',
@@ -55,7 +55,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/2EzPinaN1FcDu7jB5YxFYERbhxMYiT3bYNiP3sL5jfdB',
   },
   {
-    avatar: './components/Three/eth.png',
+    avatar: '/components/Three/eth.png',
     name: 'Eth',
     title: 'CA:EBBHUma1N1pAZBFjSHEqRRaZ6zGYjWsbiQDrkftFSQuh',
     org: 'Eth',
@@ -69,7 +69,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/2EzPinaN1FcDu7jB5YxFYERbhxMYiT3bYNiP3sL5jfdB',
   },
   {
-    avatar: './components/Three/officemobile.png',
+    avatar: '/components/Three/officemobile.png',
     name: 'FDUSD',
     title: 'CA:6fyVxagdYGtYv1u117cctvrYGJQwEYmg8LivELTT5yZL',
     org: 'FDUSD',
@@ -83,7 +83,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/JBdMRhuxAtMW754NceSMFPLnpPc2XAwgYZwXNUawSah5',
   },
   {
-    avatar: './components/Three/outlookmobile.png',
+    avatar: '/components/Three/outlookmobile.png',
     name: 'PANDA',
     title: 'CA:FvWxbAxMTrYVNVrvUusjNNSLFd55CwATZ2dYnUWy4XYU',
     org: 'PANDA',
@@ -97,7 +97,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/6xvVWCy9KtkA7DnVtVUJqmMorrYxUS3VUcUYAzM59gXe',
   },
   {
-    avatar: './components/Three/teamsmobile.png',
+    avatar: '/components/Three/teamsmobile.png',
     name: 'SATOSHI',
     title: 'CA:F37bUysKLHJBvFNCxAfGhDMArbZdk7LY1xAEc2MaqZja',
     org: 'SATOSHI',
@@ -111,7 +111,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/5TMTjmESoG6Hqbwrv9AeweoFyCet8Min2G48oQbhbTp6',
   },
   {
-    avatar: './components/Three/xboxgamepass.png',
+    avatar: '/components/Three/xboxgamepass.png',
     name: 'TON',
     title: 'CA:F37bUysKLHJBvFNCxAfGhDMArbZdk7LY1xAEc2MaqZja',
     org: 'TON',
@@ -125,7 +125,7 @@ export const core = [
     sponsor: 'https://accounts.binance.com/en/register?ref=11131007',
   },
   {
-    avatar: './components/Three/skype.png',
+    avatar: '/components/Three/skype.png',
     name: 'USDT',
     title: 'CA:45t4Cpoj5uZFmurz2bD1pEmXD4x1WaD3kSnetpHx9ZNi',
     org: 'USDT',
@@ -139,7 +139,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/BSo8Z58sYiAnmTkEX5XFQLPxGERD3pgDKdVQtHneSbkJ',
   },
   {
-    avatar: './components/Three/amazon-shopping.png',
+    avatar: '/components/Three/amazon-shopping.png',
     name: 'SHIB',
     title: 'CA:45t4Cpoj5uZFmurz2bD1pEmXD4x1WaD3kSnetpHx9ZNi',
     org: 'SHIB',
@@ -153,7 +153,7 @@ export const core = [
     sponsor: 'https://accounts.binance.com/en/register?ref=11131007',
   },
   {
-    avatar: './components/Three/jon-bloomer.png',
+    avatar: '/components/Three/jon-bloomer.png',
     name: 'NO',
     title: 'CA:8FSGagHqgjWDb3FKz8DrXuPjf5U4eX26YTmpTpk1iYsG',
     org: 'NO',
@@ -167,7 +167,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/Bz1kKXV74cznsVJSu4cPcdrD2ZbCv6raez9Bq5Edmtgw',
   },
   {
-    avatar: './components/Three/amazon-photos.png',
+    avatar: '/components/Three/amazon-photos.png',
     name: 'CLOWN',
     title: 'CA:Hv4D1ohDS6xTiBfHU4gXxCLUM5ekFAb74s9J3H5TzdBx',
     org: 'CLOWN',
@@ -181,7 +181,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/5m7P7Ye2wHatH6TmFbzyNoaYvdPcnDTfzuZZPU9drbxW',
   },
   {
-    avatar: './components/Three/amazon-kindle.png',
+    avatar: '/components/Three/amazon-kindle.png',
     name: 'BNB',
     title: 'CA:124XZFhE8ABFYSuDZkxbkKTKjqrB7CpHCspCPsQJPQvL',
     org: 'BNB',
@@ -195,7 +195,7 @@ export const core = [
     sponsor: 'https://app.meteora.ag/pools/7CdHDxxdEFEM8MEHaEPNfzL18D8w35AkArWrd9SH7bC2',
   },
   {
-    avatar: './components/Three/amazon-appstore.png',
+    avatar: '/components/Three/amazon-appstore.png',
     name: 'SATS',
     title: 'CA:124XZFhE8ABFYSuDZkxbkKTKjqrB7CpHCspCPsQJPQvL',
     org: 'SATS',
@@ -212,7 +212,7 @@ export const core = [
 
 export const emeriti = [
   {
-    avatar: './components/Three/pos.png',
+    avatar: '/components/Three/pos.png',
     name: 'MIQI',
     title: 'CA:42RrRKsSPbYYcfBzBgVFHg6txmgTdiqoLttCjPJoeJWW',
     org: 'MIQI',
@@ -226,7 +226,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/7gZYm4VQd4hTNgA9Eapdq37XLcuGjHYAq6CQ6NM2SXUu',
   },
   {
-    avatar: './components/Three/x.png',
+    avatar: '/components/Three/x.png',
     name: 'X',
     title: 'CA:5Pg797Jd9CFCi8MUUoh7N7g6iWsboHC2SeWs7rRyxVwe',
     org: 'X',
@@ -240,7 +240,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/95TETWfUrkUnM6sCSizsQTDJ2tHXBXRZA6mEnjGfpgCb',
   },
   {
-    avatar: './components/Three/spaces.png',
+    avatar: '/components/Three/spaces.png',
     name: 'SHEEP',
     title: 'CA:5BLtJtMYYw3QxWcXGr9fTPHAVFe766to1WRYLQYJBJrn',
     org: 'SHEEP',
@@ -254,7 +254,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/GYJkxTb1WLQELBFCXgLxPACuKA1Abd3bJFPKrEPsG5m9',
   },
   {
-    avatar: './components/Three/dine.png',
+    avatar: '/components/Three/dine.png',
     name: 'PEACE',
     title: 'CA:2qkVV1aJSq29RCufbc7yCcGsS7k97ZkQaZzUb9pM1Nnh',
     org: 'PEACE',
@@ -268,7 +268,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/6YwbhVxL5DBArRaC2rSsS738wjdzTzEzPSZDwRnRSnHX',
   },
   {
-    avatar: './components/Three/fit.png',
+    avatar: '/components/Three/fit.png',
     name: 'XRP',
     title: 'CA:2qkVV1aJSq29RCufbc7yCcGsS7k97ZkQaZzUb9pM1Nnh',
     org: 'XRP',
@@ -282,7 +282,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/AizCbr94n73ykw7iefDbXc61AjQiQEULnTJs6m5Hdc6y',
   },
   {
-    avatar: './components/Three/owner.png',
+    avatar: '/components/Three/owner.png',
     name: 'pig',
     title: 'CA:2qkVV1aJSq29RCufbc7yCcGsS7k97ZkQaZzUb9pM1Nnh',
     org: 'pig',
@@ -296,7 +296,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/AizCbr94n73ykw7iefDbXc61AjQiQEULnTJs6m5Hdc6y',
   },
   {
-    avatar: './components/Three/cow.png',
+    avatar: '/components/Three/cow.png',
     name: 'cow',
     title: 'CA:EMQvrURJHps2qZYb4mRb8pNRDmWjzBt57krsoc4B8cHc',
     org: 'cow',
@@ -310,7 +310,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/GHNBzjJe12m37Jj9JV4Jz6cunA34oCbXcgudCocPMJ4H',
   },
   {
-    avatar: './components/Three/puma.png',
+    avatar: '/components/Three/puma.png',
     name: 'DOGE',
     title: 'CA:AncaR5NrA9ZbDY8tWntGyb5CZAK8QhDLfGhJBG3NWwrR',
     org: 'DOGE',
@@ -324,7 +324,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/vVTYpKUvcZHr5EJJKRefamq7u8W8eDjz7gqERAvga3R',
   },
   {
-    avatar: './components/Three/dave.png',
+    avatar: '/components/Three/dave.png',
     name: 'horse',
     title: 'CA:3zwVdm5GkUFfJDMJSaMGjQtaMA7sqVWpCynoXcJ6kaX7',
     org: 'horse',
@@ -338,7 +338,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/AizCbr94n73ykw7iefDbXc61AjQiQEULnTJs6m5Hdc6y',
   },
   {
-    avatar: './components/Three/discord.png',
+    avatar: '/components/Three/discord.png',
     name: 'DONALD',
     title: 'CA:AkfGJmaS6DznynN8xA9FhbdbGGYhXSwJv5ZdC6P5TRB4',
     org: 'DONALD',
@@ -352,7 +352,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/6Ed7Gy1aKNrvSr7srCJWowaLSEjCySmeRWK2iacEPCmw',
   },
   {
-    avatar: './components/Three/tesla.png',
+    avatar: '/components/Three/tesla.png',
     name: 'SNAKE',
     title: 'CA:2qkVV1aJSq29RCufbc7yCcGsS7k97ZkQaZzUb9pM1Nnh',
     org: 'SNAKE',
@@ -366,7 +366,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/6YwbhVxL5DBArRaC2rSsS738wjdzTzEzPSZDwRnRSnHX',
   },
   {
-    avatar: './components/Three/pinterest.png',
+    avatar: '/components/Three/pinterest.png',
     name: 'RABBIT',
     title: 'CA:ECGz3d727sk2iECrQxTkTLgSDKeiheTcPkoBZn9UWc4n',
     org: 'RABBIT',
@@ -380,7 +380,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/FbrPuX8tinmx2yxwxmYGZfZQbkS8FL9gG1dzQiWMamER',
   },
   {
-    avatar: './components/Three/mercari.png',
+    avatar: '/components/Three/mercari.png',
     name: 'YY',
     title: 'CA:7pajZABTSzNciQaXBBeKn93DxjCZmU8fur8X3VpNG6eo',
     org: 'YY',
@@ -394,7 +394,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/HGxSXTJhw1vGYhhCjjqSdBbwmG4cgFpJwjXK578Qz3Ms',
   },
   {
-    avatar: './components/Three/playstation.png',
+    avatar: '/components/Three/playstation.png',
     name: 'GF',
     title: 'CA:4RtELABCLKgbptLRLGitdzcLrFnkhpgA57xj53QgoTTA',
     org: 'GF',
@@ -408,7 +408,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/5zz1MnzBxhozPoGDGysdu4CeeMEVeJ1cay8gpgw6Motb',
   },
   {
-    avatar: './components/Three/openvpn.png',
+    avatar: '/components/Three/openvpn.png',
     name: 'YAYA',
     title: 'CA:GFXzsU8XJCCLRqr7PWcK1gihEi88LVHE49HjkvcMjkiT',
     org: 'YAYA',
@@ -422,7 +422,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/Di9aeHFYeczWysnQsbNpxFgqTzJYyU9pKCovSdrhFXHQ',
   },
   {
-    avatar: './components/Three/tableau.png',
+    avatar: '/components/Three/tableau.png',
     name: 'ORD',
     title: 'CA:B96wBokgFf5KsuPra3dSnd3nPeiY3fAD48bAshMALQ44',
     org: 'ORD',
@@ -436,7 +436,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/6u1nMUVkTVmSvvdjvVTJUPKP7ZoFLrbah3YtFnTa9YoA',
   },
   {
-    avatar: './components/Three/wordpress.png',
+    avatar: '/components/Three/wordpress.png',
     name: 'CAT',
     title: 'CA:nVS6UVNVL2zQsorZpqmsrR527eqGacMAHtSV7tHKci7',
     org: 'CAT',
@@ -450,7 +450,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/9oRdiNMEPegLEmczr55zhTygRymQn44D7Ry5Cduj4VXv',
   },
   {
-    avatar: './components/Three/flipkart.png',
+    avatar: '/components/Three/flipkart.png',
     name: 'QQ',
     title: 'CA:6nr68C4TW9ZTXddKp3QHHcbaQyRMiPPeqqkUcf2wjU2d',
     org: 'QQ',
@@ -464,7 +464,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/83fGy9Fgm83CA44DU8NmhLfF2Bjq8v6dqsLcQN6NRDwm',
   },
   {
-    avatar: './components/Three/bloomberg.png',
+    avatar: '/components/Three/bloomberg.png',
     name: 'MIMI',
     title: 'CA:A8sv51gvHR5a9wynBAf88SmJS7YZ5NpurPTSpeK52kLk',
     org: 'MIMI',
@@ -478,7 +478,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/6Ed7Gy1aKNrvSr7srCJWowaLSEjCySmeRWK2iacEPCmw',
   },
   {
-    avatar: './components/Three/walmart.png',
+    avatar: '/components/Three/walmart.png',
     name: 'RAT',
     title: 'CA:DaZacZ6z8jAMgwBsMsGfFjuUeVpnoTxTLMkweSXgUyap',
     org: 'RAT',
@@ -492,7 +492,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/AEgbTbDjXX6PYgQ6DdxCmF185hSwECueVyyFg2HsXNdo',
   },
   {
-    avatar: './components/Three/baidu.png',
+    avatar: '/components/Three/baidu.png',
     name: 'monkey',
     title: 'CA:FvWxbAxMTrYVNVrvUusjNNSLFd55CwATZ2dYnUWy4XYU',
     org: 'monkey',
@@ -506,7 +506,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/6JZ53cKczUmwAqz8F59TZ7ur84AjAgLFWqWNauhsdhFY',
   },
   {
-    avatar: './components/Three/callofduty_companion.png',
+    avatar: '/components/Three/callofduty_companion.png',
     name: 'SEAL',
     title: 'CA:CzA7tZRbUBtfzJRUDRBf7V1YQFJJ2pLhajUVjKBm8Ahu',
     org: 'SEAL',
@@ -520,7 +520,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/GbCVRoqC57eKEdgWo3oBkgtX64Ru7d7Evow5oxNKDWdW',
   },
   {
-    avatar: './components/Three/Chicken.png',
+    avatar: '/components/Three/Chicken.png',
     name: 'Chicken',
     title: 'CA:ECGz3d727sk2iECrQxTkTLgSDKeiheTcPkoBZn9UWc4n',
     org: 'Chicken',
@@ -534,7 +534,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/FbrPuX8tinmx2yxwxmYGZfZQbkS8FL9gG1dzQiWMamER',
   },
   {
-    avatar: './components/Three/words2.png',
+    avatar: '/components/Three/words2.png',
     name: 'dragon',
     title: 'CA:5Pg797Jd9CFCi8MUUoh7N7g6iWsboHC2SeWs7rRyxVwe',
     org: 'dragon',
@@ -548,7 +548,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/95TETWfUrkUnM6sCSizsQTDJ2tHXBXRZA6mEnjGfpgCb',
   },
   {
-    avatar: './components/Three/lendmn.png',
+    avatar: '/components/Three/lendmn.png',
     name: 'OTTER',
     title: 'CA:7BkF2u2nUe3MrTUXY2sYdyuCQHrDBtrRzHqARrRWSg7g',
     org: 'OTTER',
@@ -562,7 +562,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/9XeEoYSMyG5tWpNKMBKivsbbjfjrPj2rFBQUEut3vDVu',
   },
   {
-    avatar: './components/Three/artsy.png',
+    avatar: '/components/Three/artsy.png',
     name: 'pepe',
     title: 'CA:53riQbBXCEFcuxZKBv98QRZhgPgkwpwpRwvGtWqUBd1u',
     org: 'pepe',
@@ -576,7 +576,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/eZ4L3WKdaCHWbocvuA5QhMvR3AwdmhpNfPW9ynHJGx6',
   },
   {
-    avatar: './components/Three/1831.png',
+    avatar: '/components/Three/1831.png',
     name: 'BCH',
     title: 'CA:ArXETDYEcKmPWTN7CbLtAtw3bruJbrtwb3FD1RnvXFuf ',
     org: 'BCH',
@@ -590,7 +590,7 @@ export const emeriti = [
     sponsor: 'https://app.meteora.ag/pools/95TETWfUrkUnM6sCSizsQTDJ2tHXBXRZA6mEnjGfpgCb',
   },
   {
-    avatar: './components/Three/4195.png',
+    avatar: '/components/Three/4195.png',
     name: 'FTX',
     title: 'CA:ArXETDYEcKmPWTN7CbLtAtw3bruJbrtwb3FD1RnvXFuf ',
     org: 'FTX',
@@ -607,7 +607,7 @@ export const emeriti = [
 
 export const cnTranslator = [
   {
-    avatar: './components/Three/shopify.png',
+    avatar: '/components/Three/shopify.png',
     name: 'tiger',
     title: 'CA:124XZFhE8ABFYSuDZkxbkKTKjqrB7CpHCspCPsQJPQvL',
     org: 'tiger',
@@ -621,7 +621,7 @@ export const cnTranslator = [
     sponsor: 'https://app.meteora.ag/pools/83XaC2jg2FqHMVjcUnHZmcgRL5MvgD45B9FxbK8evosk',
   },
   {
-    avatar: './components/Three/shop.png',
+    avatar: '/components/Three/shop.png',
     name: 'JUMP',
     title: 'CA:EgNMgTbTFy1pE15YfhFTpsB97ATpojMWsFPvpHnH8vdV',
     org: 'JUMP',
@@ -635,7 +635,7 @@ export const cnTranslator = [
     sponsor: 'https://app.meteora.ag/pools/9JqQPaU6azN6yRjrRg3MSka4tLeMEKpZ2pe5D3CLnoc',
   },
   {
-    avatar: './components/Three/shopify-inbox.png',
+    avatar: '/components/Three/shopify-inbox.png',
     name: 'A',
     title: 'CA:26BH9BqQQG6WLGoGmWYsW5qd6bM4Bzuz59hBxRAkg6ak',
     org: 'A',
