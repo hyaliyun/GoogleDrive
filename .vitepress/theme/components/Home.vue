@@ -6,7 +6,6 @@ import { load, data, base } from './sponsors'
 import SponsorsGroup from './SponsorsGroup.vue'
 import VueMasteryModal from './VueMasteryModal.vue'
 import SVGLoaders from './SVGLoaders.vue'
-import google from './google.vue'
 onMounted(load)
 </script>
 
@@ -104,11 +103,11 @@ onMounted(load)
 </section>
 
 
-  <section ><div id="viewer">
-		<div class="sectionContainer">
+  <section ><div id="viewerGoogleDrive">
+		<div class="sectionContainerGoogleDrive">
 		  <h1>TOKEN SHOWCASE</h1>
 		  <p>List of tokens people are building with Solana</p>
-		  <a class="formButton" href="https://github.com/hyaliyun/GoogleDrive/discussions/2" target="_blank">
+		  <a class="formButtonGoogleDrive" href="https://github.com/hyaliyun/GoogleDrive/discussions/2" target="_blank">
 			🙏 Please add your token
 		  </a>
 		</div>
@@ -799,7 +798,6 @@ onMounted(load)
     </div>
 </section>
   <SiteMap />
-  <google />
   <!-- <NewsLetter /> -->
 </template>
 
@@ -1089,7 +1087,7 @@ body {
   }
   
   
-#viewer {
+#viewerGoogleDrive {
   flex: 1; /* 这已经足够使其填充剩余空间，但您可以明确设置宽度 */
   width: 100%; /* 显式设置宽度为100% */
   padding: 40px;
@@ -1200,7 +1198,7 @@ body {
 	border-color: #3498db;
   }
   
-  .sectionContainer {
+  .sectionContainerGoogleDrive {
 	text-align: center;
 	padding: 40px 20px;
 	color: #6c757d;
@@ -1208,13 +1206,13 @@ body {
 	margin-bottom: 30px;
   }
   
-  .sectionContainer h1 {
+  .sectionContainerGoogleDrive h1 {
 	font-size: 2.5em;
 	margin-bottom: 15px;
 	color: #6c757d;
   }
   
-  .formButton {
+  .formButtonGoogleDrive {
 	display: inline-block;
 	padding: 10px 20px;
 	background-color: #2ecc71;
@@ -1225,7 +1223,7 @@ body {
 	transition: all 0.3s ease;
   }
   
-  .formButton:hover {
+  .formButtonGoogleDrive:hover {
 	background-color: #27ae60;
 	transform: translateY(-2px);
 	box-shadow: 0 4px 8px rgba(0,0,0,0.2);
