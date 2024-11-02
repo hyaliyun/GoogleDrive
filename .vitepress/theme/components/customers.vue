@@ -6,7 +6,6 @@ import { load, data, base } from './sponsors'
 import SponsorsGroup from './SponsorsGroup.vue'
 import VueMasteryModal from './VueMasteryModal.vue'
 import SVGLoaders from './SVGLoaders.vue'
-import google from './google.vue'
 onMounted(load)
 </script>
 
@@ -800,7 +799,6 @@ onMounted(load)
 </section>
 
   <SiteMap />
-  <google />
   <!-- <NewsLetter /> -->
 </template>
 
