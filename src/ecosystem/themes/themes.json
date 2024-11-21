@@ -1,392 +1,392 @@
 [
   {
-    "name": "Creative Tim",
-    "description": "With the examples below built by our partners from [Creative Tim](https://www.543x.com) you can see how a real-world application is built, the technology stack behind it and how most of the concepts you've learned so far apply in a real-world application.",
-    "seeMoreUrl": "https://www.543x.com",
+    "name": "solana",
+    "description": "With the examples below built by our partners from [solana](https://b.543x.com/) you can see how a real-world application is built, the technology stack behind it and how most of the concepts you've learned so far apply in a real-world application.",
+    "seeMoreUrl": "https://b.543x.com/",
     "products": [
       {
-        "name": "Vue Argon Design System",
+        "name": "GoogleCloud🥳",
         "price": 0,
-        "description": "Free GoogleDrive Design System",
-        "url": "https://a.543x.com",
+        "description": "🎉High-performance infrastructure for cloud computing, data analytics & machine learning👏",
+        "url": "https://h.543x.com/",
         "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-design-system/vue-argon-design-system.jpg"
       },
       {
-        "name": "Vue Black Dashboard Pro",
-        "price": 59,
-        "description": "Premium GoogleDrive Admin Template",
-        "url": "https://b.543x.com",
-        "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-black-dashboard-pro/vue-black-dashboard-pro.jpg"
-      },
-      {
-        "name": "Vue Paper Dashboard 2 Pro",
-        "price": 59,
-        "description": "Premium GoogleDrive Admin Template",
-        "url": "https://c.543x.com",
-        "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-black-dashboard-pro/vue-black-dashboard-pro.jpg"
-      },
-      {
-        "name": "Vue Material Kit",
+        "name": "Create AI📚",
         "price": 0,
-        "description": "Free GoogleDrive UI Kit",
-        "url": "https://d.543x.com",
+        "description": "👏AI revolutionizes industries, enhances productivity, solves problems, personalizes experiences",
+        "url": "https://ai.543x.com/",
+        "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-black-dashboard-pro/vue-black-dashboard-pro.jpg"
+      },
+      {
+        "name": "Swap 📝",
+        "price": 0,
+        "description": "🔥The Monetary Future: At the intersection of free banking, cryptography, and digital currency 👏",
+        "url": "https://s.543x.com/",
+        "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-black-dashboard-pro/vue-black-dashboard-pro.jpg"
+      },
+      {
+        "name": "Bitcoin🐱",
+        "price": 0,
+        "description": "🔥Bitcoin: A Peer-to-Peer Electronic Cash System 🦖Bitcoin is the first decentralized cryptocurrency",
+        "url": "https://www.543x.com",
         "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-material-kit/vue-material-kit.jpg"
       },
       {
-        "name": "Vue Black Dashboard",
+        "name": "🍎googlefonts",
         "price": 0,
-        "description": "Free GoogleDrive Admin Template",
-        "url": "https://e.543x.com",
+        "description": "support best practicesuser interface design",
+        "url": "https://b.252x.com/",
         "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-black-dashboard/vue-black-dashboard.jpg"
       },
       {
-        "name": "Vue Now UI Kit Pro",
-        "price": 79,
-        "description": "Premium GoogleDrive UI Kit",
-        "url": "https://f.543x.com",
+        "name": "React App👏",
+        "price": 0,
+        "description": "You don't need to learn and configure many build tools.  your bundles are optimized automatically.❤️",
+        "url": "https://r.543x.com",
         "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-now-ui-kit-pro/vue-now-ui-kit-pro.jpg"
       }
     ]
   },
   {
-    "name": "MDBootstrap",
-    "description": "Check out the themes, UI Kits and plugins below built by our partners from [MDBootstrap](https://mdbootstrap.com/?utm_ref_id=82665). Learn how to use Vue in professional projects along such technologies as Bootstrap. Templates & ready components make your development faster and more efficient.",
-    "seeMoreUrl": "https://g.543x.com",
+    "name": "react",
+    "description": "With the examples below built by our partners from [react](https://www.543x.com/) you can see how a real-world application is built, the technology stack behind it and how most of the concepts you've learned so far apply in a real-world application.",
+    "seeMoreUrl": "https://www.543x.com/",
     "products": [
       {
-        "url": "https://h.543x.com",
-        "name": "Vue Material Bootstrap Pro",
-        "description": "Premium GoogleDrive UI Kit",
-        "image": "https://mdbootstrap.com/img/Marketing/mdb-press-pack/vuejs/ui-kit.jpg",
-        "price": 199
-      },
-      {
-        "url": "https://i.543x.com",
-        "name": "Vue Material Bootstrap Kit",
-        "description": "Free GoogleDrive UI Kit",
-        "image": "https://mdbootstrap.com/img/Marketing/mdb-press-pack/vuejs/ui-kit.jpg",
+        "url": "https://e.543x.com/",
+        "name": "💥 Create React App",
+        "description": "Your app only needs one build dependency. We test Create React App to make sure that all of its underlying",
+        "image": "/components/Three/facebook.png",
         "price": 0
       },
       {
-        "url": "https://www.543x.com",
-        "name": " Vue Admin Bootstrap Pro",
-        "description": "Premium GoogleDrive Templates Pack",
-        "image": "https://mdbootstrap.com/img/Marketing/mdb-press-pack/vuejs/admin-pack.jpg",
-        "price": 199
-      },
-      {
-        "url": "https://www.434x.com",
-        "name": "Vue Admin Bootstrap",
-        "description": "Free GoogleDrive Templates Pack",
-        "image": "https://mdbootstrap.com/img/Marketing/mdb-press-pack/vuejs/admin-pack.jpg",
+        "url": "https://d.543x.com/",
+        "name": "Firebase💼",
+        "description": "☀️Google tools help build applications, improve quality and efficiency, and promote business growth",
+        "image": "/components/Three/adsmanager.png",
         "price": 0
       },
       {
-        "url": "https://a.434x.com",
-        "name": "Vue Calendar Bootstrap",
-        "description": "Premium GoogleDrive Plugin",
-        "image": "https://mdbootstrap.com/img/Marketing/mdb-press-pack/vuejs/plugins/calendar.jpg",
-        "price": 199
+        "url": "https://a.z2.pw",
+        "name": " 📊GoogleSheet",
+        "description": "Create, edit, and collaborate on spreadsheets with the Google Sheets app. With Sheets you can 💙",
+        "image": "/components/Three/metaquest.png",
+        "price": 0
       },
       {
-        "url": "https://b.434x.com",
-        "name": "Vue Color Picker Bootstrap",
-        "description": "Premium GoogleDrive Plugin",
-        "image": "https://mdbootstrap.com/img/Marketing/mdb-press-pack/vuejs/plugins/color-picker.jpg",
-        "price": 199
+        "url": "https://g.543x.com/",
+        "name": "☸️ Native",
+        "description": "Add information like your phone number, operating hours, and health and safety measures",
+        "image": "/components/Three/messengerdesktop.png",
+        "price": 0
+      },
+      {
+        "url": "https://a.434x.com/",
+        "name": "🌬️ Tailwind",
+        "description": "Show your business is personality with photos, a cover image, your logo, and more to stand out to customers.",
+        "image": "/components/Three/eth.png",
+        "price": 0
+      },
+      {
+        "url": "https://i.543x.com/",
+        "name": "🍓 Token 💙",
+        "description": "Add attributes to show your business identifies as Black-owned, women-owned, veteran-owned",
+        "image": "/components/Three/officemobile.png",
+        "price": 0
       }
     ]
   },
   {
-    "name": "PrimeVue",
-    "description": "The open-source UI component library [PrimeVue](https://www.primefaces.org/primevue/?af_id=4218) offers over 90 flexible components to build your apps with! They have a ton of different component themes and application templates available to get the look & feel that suits you best.",
-    "seeMoreUrl": "https://c.434x.com",
+    "name": "token",
+    "description": "With the examples below built by our partners from [token](https://www.543x.com/) you can see how a real-world application is built, the technology stack behind it and how most of the concepts you've learned so far apply in a real-world application.",
+    "seeMoreUrl": "https://www.543x.com/",
     "products": [
       {
-        "name": "Sakai",
+        "name": "📰 Cms",
         "price": 0,
-        "description": "Free Admin Template",
-        "url": "https://www.252x.com",
+        "description": "CMS creation and publishing inspires unlimited creative possibilities",
+        "url": "https://w.z2.pw/",
         "image": "https://www.primefaces.org/vue-templates/sakai.jpg"
       },
       {
-        "name": "Apollo",
-        "price": 59,
-        "description": "Next-Gen Application Template",
-        "url": "https://a.252x.com",
+        "name": "🕸️ vuejs",
+        "price": 0,
+        "description": "Reply to public customer reviews to build trust with new and returning customers.",
+        "url": "https://www.252x.com/",
         "image": "https://www.primefaces.org/vue-templates/apollo.jpg"
       },
       {
-        "name": "Atlantis",
-        "price": 59,
-        "description": "Premium Admin Template",
-        "url": "https://b.252x.com",
+        "name": "⚔️ Vite💉💉",
+        "price": 0,
+        "description": "Message with customers directly. You can pause messaging or create automated responses any time.",
+        "url": "https://a.252x.com/",
         "image": "https://www.primefaces.org/vue-templates/atlantis.jpg"
       },
       {
-        "name": "Freya",
-        "price": 59,
-        "description": "Premium Admin Template",
-        "url": "https://b.252x.com8",
+        "name": "💰  Swap",
+        "price": 0,
+        "description": "Some obvious changes:",
+        "url": "https://s.543x.com/",
         "image": "https://www.primefaces.org/vue-templates/freya.jpg"
       },
       {
-        "name": "Ultima",
-        "price": 79,
-        "description": "Material Design Admin Template",
-        "url": "https://www.252x.com",
+        "name": "🎬 NextJS",
+        "price": 0,
+        "description": "We just updated the Create React App docs to Docusaurus v2. Now with",
+        "url": "https://c.543x.com/",
         "image": "https://www.primefaces.org/vue-templates/ultima.jpg"
       },
       {
-        "name": "Diamond",
-        "price": 59,
-        "description": "PrimeOne Design Admin Template",
-        "url": "https://www.252x.com",
+        "name": "⚛️ React App",
+        "price": 0,
+        "description": "No real content updates yet, but contributing and publishing has become",
+        "url": "https://e.543x.com/",
         "image": "https://www.primefaces.org/vue-templates/diamond.jpg"
       }
     ]
   },
   {
-    "name": "Flatlogic",
-    "description": "Check out the admin dashboard templates built by our partners from [Flatlogic](https://flatlogic.com/templates?ref=x-fdkuTAVW). With these themes you can see how real applications are built. Additionally, these templates will help you to start a new application and save you time and money.",
-    "seeMoreUrl": "https://www.252x.com",
+    "name": "btc",
+    "description": "With the examples below built by our partners from [btc](https://www.543x.com/) you can see how a real-world application is built, the technology stack behind it and how most of the concepts you've learned so far apply in a real-world application.",
+    "seeMoreUrl": "https://www.543x.com/",
     "products": [
       {
-        "name": "Sing App Vue",
-        "price": 99,
-        "description": "Vue Admin Dashboard Template",
-        "url": "https://www.z2.pw",
-        "image": "https://flatlogic.com/assets/templates/sing_vue_full-cb6b9fdd0465a0d60c0fafa2deca1929cc4966957c8e1ce57565a5e2f45ff043.webp"
-      },
-      {
-        "name": "Sing App Vue Node.js",
-        "price": 149,
-        "description": "Vue Admin Dashboard Template with Node.JS Backend",
-        "url": "https://a.z2.pw",
-        "image": "https://flatlogic.com/assets/templates/sing_vue_full_nodejs-78af09220a2d085fec9bbc1071879915b30737f25d72669152f3b090291609aa.webp"
-      },
-      {
-        "name": "Light Blue Vue",
-        "price": 99,
-        "description": "Vue Admin Dashboard Template",
-        "url": "https://w.z2.pw",
-        "image": "https://flatlogic.com/assets/templates/light_blue_vue_full-e044d30242912d5756b190e576bf30ea967b725c09d2e371a7eabf1c6a9c33b2.webp"
-      },
-      {
-        "name": "Light Blue Vue Admin",
+        "name": "🔯 React",
         "price": 0,
-        "description": "Free and Open Source Vue JS Template for Admin Dashboard",
-        "url": "https://www.z2.pw",
-        "image": "https://flatlogic.com/assets/templates/light_blue_vue_lite-c1937a2a01e5e8e8ede29a3ead011126e9dab5c58b9017daefe36411f9a1089e.webp"
+        "description": "The new website has landed 🚀 powered by <b>@docusaurus</b> v2 and made",
+        "url": "https://r.543x.com/",
+        "image": "/components/Three/outlookmobile.png"
       },
       {
-        "name": "Sing App Vue Dashboard",
+        "name": "👁️‍🗨 Solana",
         "price": 0,
-        "description": "Free and Open Source GoogleDrive Admin Dashboard Template",
-        "url": "https://www.z2.pw",
-        "image": "https://flatlogic.com/assets/templates/sing_vue_lite-ae3ec037404bc9ae29599a16afe276e638bd916713d75946c604feb69323ec21.webp"
+        "description": "Interview Questions! Hopefully it makes the browsing experience easier -",
+        "url": "https://b.543x.com/",
+        "image": "/components/Three/teamsmobile.png"
       },
       {
-        "name": "Light Blue Vue Node.js",
-        "price": 149,
-        "description": "Vue Admin Template with Node.JS Backend",
-        "url": "https://www.434x.com",
-        "image": "https://flatlogic.com/assets/templates/light_blue_vue_full_nodejs-06f941c849f0a83a3c0d38c728101eace06a7515ea048f12bcd91f165280246f.webp"
+        "name": "🏪 GBP",
+        "price": 0,
+        "description": "Now, it&apos;s working out of the box, with proper meta tags for SEO 👌",
+        "url": "https://e.252x.com/",
+        "image": "/components/Three/jon-bloomer.png"
+      },
+      {
+        "name": "♀️ jamstack",
+        "price": 0,
+        "description": "Today I tried <b>@docusaurus</b> in a project, I really like the ease",
+        "url": "https://d.252x.com/",
+        "image": "/components/Three/skype.png"
+      },
+      {
+        "name": "☸️ Electron",
+        "price": 0,
+        "description": "Electron JavaScript, HTML, and CSS",
+        "url": "https://c.252x.com",
+        "image": "/components/Three/amazon-kindle.png"
+      },
+      {
+        "name": "blockchain🧠",
+        "price": 0,
+        "description": "👏Blockchain is a shared, immutable ledger that facilitates the process of recording transactions",
+        "url": "https://www.z2.pw",
+        "image": "/components/Three/xboxgamepass.png"
       }
     ]
   },
   {
-    "name": "WrapPixel",
-    "description": "Check out top [dashboard templates](https://www.wrappixel.com/templates/category/admin-dashboard-templates/?ref=320) built by our partners from [WrapPixel](https://www.wrappixel.com/?ref=320). Download highly customizable [Vue templates](https://www.wrappixel.com/templates/category/vuejs-templates/?ref=320) to start building your real time web application quickly to save hundreds of hours in development and design.",
-    "seeMoreUrl": "https://www.543x.com",
+    "name": "eth",
+    "description": "With the examples below built by our partners from [eth](https://www.543x.com/) you can see how a real-world application is built, the technology stack behind it and how most of the concepts you've learned so far apply in a real-world application.",
+    "seeMoreUrl": "https://www.543x.com/",
     "products": [
       {
-        "name": "Spike Free VueJs Admin Template",
+        "name": "🌬️Tailwind",
         "price": 0,
-        "description": "Free & Open Source VueJs Admin Template",
-        "url": "https://www.434x.com",
-        "image": "https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-free-vuetify-vuejs-admin-template-wp.jpg"
+        "description": "Free & Open Source TypeScript Admin Template",
+        "url": "https://a.434x.com/",
+        "image": "/components/Three/amazon-photos.png"
       },
       {
-        "name": "Spike Vue3 Admin Dashboard",
-        "price": 49,
-        "description": "Powerful Vue3 Dashboard Theme",
-        "url": "https://www.434x.com",
-        "image": "https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-vuejs-admin-dashboard-prev-img.jpg"
-      },
-      {
-        "name": "MaterialPro Vue3 Admin Dashboard",
-        "price": 49,
-        "description": "Vue 3 + Vuetify 3 + Vite + Typescript",
-        "url": "https://www.434x.com",
-        "image": "https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-dashboard-template-20.jpg"
-      },
-      {
-        "name": "Free MaterialPro Vuetify Admin",
+        "name": "👽 Three.js",
         "price": 0,
-        "description": "Free Vuetify Dashboard Template",
-        "url": "https://www.434x.com",
-        "image": "https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-lite-admin-wp-20.jpg"
+        "description": "Add posts to your Business Profile to promote special offers, events, and updates to keep customers in the loop",
+        "url": "http://b.434x.com/",
+        "image": "/components/Three/amazon-shopping.png"
       },
       {
-        "name": "Free AdminPro VueJs Lite",
+        "name": "✝️ T3app",
         "price": 0,
-        "description": "Free & Open Source VueJs Admin Template",
-        "url": "https://www.434x.com",
-        "image": "https://www.wrappixel.com/wp-content/uploads/edd/2020/11/feature_image.jpg"
+        "description": "The best way to start a full-stack, typesafe Next.js app",
+        "url": "https://f.543x.com/",
+        "image": "/components/Three/owner.png"
       },
       {
-        "name": "AdminPro Vue3 + Vuetify Dashboard",
-        "price": 49,
-        "description": "Vue3 + Vite + Vuetify + Typescript",
-        "url": "https://www.434x.com",
-        "image": "https://www.wrappixel.com/wp-content/uploads/edd/2020/10/adminpro-vuetify-dasboard-template-y.jpg"
+        "name": "English",
+        "price": 0,
+        "description": "用你的注意力填满100小时就能练成任何你所需要的技能......",
+        "url": "https://a.3kk3.com/",
+        "image": "/components/Three/pos.png"
+      },
+      {
+        "name": "masterpiece",
+        "price": 0,
+        "description": "Read 10,000 world classics online,creating a magnificent picture of the soul.",
+        "url": "https://www.3kk3.com/",
+        "image": "/components/Three/cow.png"
+      },
+      {
+        "name": "GoogleMaps",
+        "price": 0,
+        "description": "⚡️ Explore and navigate your world",
+        "url": "https://f.252x.com/",
+        "image": "/components/Three/spaces.png"
       }
     ]
   },
   {
-    "name": "CodedThemes",
-    "description": "Explore GoogleDrive admin dashboard templates crafted with developers in mind by our partners at [CodedThemes](https://codedthemes.com). Download now to expedite the development of your real-time web applications, saving you countless hours in design and development.",
-    "seeMoreUrl": "https://www.543x.com",
+    "name": "X",
+    "description": "With the examples below built by our partners from [X](https://www.543x.com/) you can see how a real-world application is built, the technology stack behind it and how most of the concepts you've learned so far apply in a real-world application.",
+    "seeMoreUrl": "https://www.543x.com/",
     "products": [
       {
-        "name": "Free Berry Vuetify VueJs Admin Template",
+        "name": "🌔 Google One",
         "price": 0,
-        "description": "Free & Open Source VueJs Admin Template with well known desing of Berry",
-        "url": "https://www.543x.com",
+        "description": "⚡️ Lookingmore storage your personal account?",
+        "url": "https://g.252x.com/",
         "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Berry-free-vue.png"
       },
       {
-        "name": "Berry Vue3 Admin Dashboard",
-        "price": 49,
-        "description": "Discover our visually captivating Vue 3 Dashboard Theme!",
-        "url": "https://www.543x.com",
+        "name": "nodejs",
+        "price": 0,
+        "description": "Node.js can also be installed via package managers.",
+        "url": "https://h.252x.com",
         "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Berry-pro-vue.png"
       },
       {
-        "name": "Mantis Vue3 Admin Dashboard",
-        "price": 49,
-        "description": "Simple yet rebust to start any development with latest VueJs and Vuetify",
-        "url": "https://www.543x.com",
+        "name": "web3",
+        "price": 0,
+        "description": "⚡️ Learn once, What is Web3?",
+        "url": "https://www.494x.com/",
         "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Mantis-pro-vue.png"
       },
       {
-        "name": "Free Mantis Vuetify VueJs Admin Template",
+        "name": "Google Docs",
         "price": 0,
-        "description": "Free Vuetify Dashboard Template with simplest design and code",
-        "url": "https://www.543x.com",
+        "description": "⚡️ Online, collaborative documents",
+        "url": "https://a.494x.com/",
         "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Mantis-free-vue.png"
       },
       {
-        "name": "Free Able Pro VueJs",
+        "name": "金庸",
         "price": 0,
-        "description": "Free & Open Source Able pro VueJs Admin Template",
-        "url": "https://www.543x.com",
+        "description": "⚡️ 飞雪连天射白鹿，笑书神侠倚碧鸳",
+        "url": "https://a.00n0.com/",
         "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Able+pro-free-vue.png"
       },
       {
-        "name": "Able Pro Vue3 + Vuetify Dashboard",
-        "price": 11,
-        "description": "Vue3 + Vite + Vuetify + Typescript",
-        "url": "https://www.543x.com",
+        "name": "🌔 公务员指南",
+        "price": 0,
+        "description": "⚡️ 一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册❓为什么.",
+        "url": "https://www.64ii.com/",
         "image": "https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Able+pro-pro-vue.png"
       }
     ]
   },
   {
-    "name": "ThemeSelection",
-    "description": "Check out the admin [dashboard templates](https://themeselection.com/item/category/admin-templates/?ref=14) built by our partners from ThemeSelection.\n\nThey provide production-ready and highly customizable Free & Premium [Vue Admin Template](https://themeselection.com/item/category/vuejs-admin-templates/?ref=14), Vue + Laravel & NuxtJS Admin Templates to build modern web applications in no time!",
-    "seeMoreUrl": "https://www.252x.com",
+    "name": "pepe",
+    "description": "With the examples below built by our partners from [pepe](https://www.543x.com/) you can see how a real-world application is built, the technology stack behind it and how most of the concepts you've learned so far apply in a real-world application.",
+    "seeMoreUrl": "https://www.543x.com/",
     "products": [
       {
-        "name": "Materio - Vue Admin Template",
+        "name": "🌔 TypeScript",
         "price": 0,
-        "description": "Free & Open Source VueJS Admin inspired by Material Design",
-        "url": "https://www.252x.com",
-        "image": "https://cdn.themeselection.com/ts-assets/materio/materio-vuetify-vuejs-admin-template-free/banner/banner.png"
+        "description": "⚡️ TypeScript 是一种基于 JavaScript 的强类型编程语言，可为您提供任何规模的更好工具。",
+        "url": "https://82ii.com/",
+        "image": "/components/Three/amazon-appstore.png"
       },
       {
-        "name": "Materio - Vue Admin Template",
-        "price": 69,
-        "description": "Most Powerful & Comprehensive VueJS Admin built for developers",
-        "url": "https://www.252x.com",
-        "image": "https://cdn.themeselection.com/ts-assets/materio/materio-vuetify-vuejs-admin-template/banner/banner.png"
-      },
-      {
-        "name": "Sneat - Vue Laravel Admin",
+        "name": "中国佛教协会",
         "price": 0,
-        "description": "Free & Open Source VueJS Laravel Admin using Sneat Design System",
-        "url": "https://www.252x.com",
-        "image": "https://cdn.themeselection.com/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/banner/banner.png"
+        "description": "⚡️ 八大地狱之最，称为无间地狱，为无间断遭受大苦之意，故有此名",
+        "url": "https://www.82oo.com/",
+        "image": "/components/Three/fit.png"
       },
       {
-        "name": "Sneat - Vue Laravel Admin",
-        "price": 79,
-        "description": "Production Ready, Carefully Crafted VueJS Laravel Dashboard",
-        "url": "https://www.252x.com",
-        "image": "https://cdn.themeselection.com/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template/banner/banner.png"
-      },
-      {
-        "name": "Materio - NuxtJS Dashboard",
+        "name": "⛪ 中国基督教协会 ",
         "price": 0,
-        "description": "Free & Open Source NuxtJS Admin inspired by Material Design",
-        "url": "https://www.252x.com",
+        "description": "⚡️ 你们愿意人怎样待你们，你们也要怎样待人",
+        "url": "https://www.96oo.com/",
+        "image": "/components/Three/puma.png"
+      },
+      {
+        "name": "🌔 天涯",
+        "price": 0,
+        "description": "⚡️ 海内存知己，天涯若比邻。",
+        "url": "https://www.14ll.com",
+        "image": "https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard-min.png"
+      },
+      {
+        "name": "📓 新华字典",
+        "price": 0,
+        "description": "⚡️ 中国最具影响力的现代汉语字典",
+        "url": "https://a.14ll.com/",
         "image": "https://cdn.themeselection.com/ts-assets/materio/materio-vuetify-nuxtjs-admin-template-free/banner/banner.png"
       },
       {
-        "name": "Materio - NuxtJS Dashboard",
-        "price": 79,
-        "description": "Incredibly versatile, flexible and powerful NuxtJS Admin Template",
-        "url": "https://www.252x.com",
+        "name": "🌔 Country City",
+        "price": 0,
+        "description": "⚡️ Quick snippets Country State City",
+        "url": "https://www.41ii.com/",
         "image": "https://cdn.themeselection.com/ts-assets/materio/materio-vuetify-nuxtjs-admin-template/banner/banner.png"
       }
     ]
   },
   {
-    "name": "AdminMart",
-    "description": "Check out top [Vue dashboard templates](https://adminmart.com/templates/vuejs-admin/?ref=34) built by our partners from [AdminMart](https://adminmart.com/?ref=34). Download them to speed up your web development process and build top class web applications.",
-    "seeMoreUrl": "https://www.252x.com",
+    "name": "doge",
+    "description": "With the examples below built by our partners from [doge](https://www.543x.com/) you can see how a real-world application is built, the technology stack behind it and how most of the concepts you've learned so far apply in a real-world application.",
+    "seeMoreUrl": "https://www.543x.com/",
     "products": [
       {
-        "name": "Matdash Free Vuejs Admin Dashboard",
+        "name": "🌔 好用的VPN推荐",
         "price": 0,
-        "description": "Free & Open Source VueJs Admin Template",
-        "url":"https://www.252x.com",
-        "image": "https://adminmart.com/wp-content/uploads/2024/05/matdash-vuetifi-vuejs-2.png"
+        "description": "⚡️ 2024年好用的翻墙软件VPN推荐，目前多数科学上网或VPN梯子在中国失效，比如PureVPN",
+        "url": "https://a.1zz1.com/",
+        "image": "/components/Three/facebook.png"
       },
       {
-        "name": "Matdash Vuejs Admin Dashboard",
-        "price": 49,
-        "description": "Empowering Developers with Unmatched Flexibility and Power",
-        "url": "https://www.252x.com",
-        "image": "https://adminmart.com/wp-content/uploads/2024/05/matdash-vuetify-vuejs-admin-dashboard.png"
-      },
-      {
-        "name": "Modernize Vuetify 3 & Vue 3 Admin Dashboard",
-        "price": 49,
-        "description": "Developer Friendly & Most Powerful Vue Admin Dashboard Template",
-        "url": "https://www.252x.com",
-        "image": "https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard-min.png"
-      },
-      {
-        "name": "Modernize Free Vuetify + Vue js Admin Dashboard",
+        "name": "中国道教协会",
         "price": 0,
-        "description": "Free & Open Source VueJs Admin Template",
-        "url": "https://www.252x.com",
+        "description": "⚡️ 道可道，非常道，人间道道道",
+        "url": "https://www.1zz1.com/",
+        "image": "/components/Three/adsmanager.png"
+      },
+      {
+        "name": "🌔 Music",
+        "price": 0,
+        "description": "⚡️ 5 Million Song Lyrics❓Why.",
+        "url": "https://www.00n0.com/",
+        "image": "/components/Three/eth.png"
+      },
+      {
+        "name": "🩺 Doctor",
+        "price": 0,
+        "description": "⚡️ Life Quotes ❓Why.",
+        "url": "https://www.30tt.com/",
         "image": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-vuetify-admin-dashboard-am-min1.png"
       },
       {
-        "name": "Modernize Free NuxtJs Admin Dashboard Template",
+        "name": "😱 Q&A",
         "price": 0,
-        "description": "Free NuxtJs Dashboard Template",
-        "url": "https://www.252x.com",
+        "description": "⚡️ question and answer ❓Why",
+        "url": "https://www.551x.com/",
         "image": "https://adminmart.com/wp-content/uploads/2023/02/modernize-free-nuxt-admin-dashboard-am-min.png"
       },
       {
-        "name": "Modernize Nuxt Js Admin Dashboard",
-        "price": 49,
-        "description": "Rapidly Build Powerful Dashboards with NuxtJs - Vuetify: A Developer's Dream",
-        "url": "https://www.252x.com",
+        "name": "🥁 武侠百家",
+        "price": 0,
+        "description": "⚡️ 武侠百家武侠小说全集.",
+        "url": "https://a.551x.com/",
         "image": "https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png"
       }
     ]
