@@ -41,32 +41,7 @@ onMounted(load)
     </section>
   </div>
 
-<section id="hero">
-  <div class="contain">
-   <div class="cont">
-    <img src="./Three/googleone.png" alt="Google" class="logo">
-	</div>
-    <h1>Secure storage and AI from Google</h1>
-    <a href="https://one.google.com/about/plans" class="cta-button">Sign up for Google One</a>
-    <div class="icon-grid">
-    <div class="icon-item">
-      <a href="https://www.252x.com" title="Secure"><img class="icon" src="./Three/amazon-photos.png" alt="docs icon"></a>
-      <span class="icon-name">Secure</span>
-    </div> 
- 
-    <div class="icon-item">
-      <a href="https://www.434x.com" title="AI"><img class="icon" src="./Three/owner.png" alt="gmail icon"></a>
-      <span class="icon-name">AI</span>
-    </div>
 
-    <div class="icon-item">
-      <a href="https://www.543x.com" title="features"><img class="icon" src="./Three/shop.png" alt="meet icon"></a>
-      <span class="icon-name">features</span>
-    </div>
-
-    </div>
-  </div>
-</section>
 
  <SVGLoaders/>
  <section class="drive-integrations-section">
