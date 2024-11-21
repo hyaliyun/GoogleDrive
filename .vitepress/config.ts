@@ -14,7 +14,6 @@ const nav: ThemeConfig['nav'] = [
     items: [
       { text: 'Google token', link: '/drive/team' },
       { text: 'Google drive', link: '/drive/customers'},
-      { text: 'Google One', link: '/drive/one' },
       { text: 'Google meet', link: '/drive/meet' },
       { text: 'Google chat', link: '/drive/chat' },
     ]
